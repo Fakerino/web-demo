@@ -1,0 +1,5 @@
+{
+    "require": {
+        "fakerino/fakerino": "^0.8.1"
+    }
+}
